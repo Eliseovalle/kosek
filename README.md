@@ -1,0 +1,2 @@
+# kosek
+Vender cosas
